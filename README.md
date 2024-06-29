@@ -1,8 +1,11 @@
 #Task-02
+
+
 #Module Overview
-This training module aims to educate users about the dangers of phishing attacks, how to recognize them, and best practices for avoiding them. Phishing is a prevalent and dangerous form of cyberattack that exploits human vulnerabilities through deceptive emails, websites, and social engineering tactics.
+This training module aims to educate users about the dangers of phishing attacks, how to recognize them, and best practices for avoiding them. Phishing is a prevalent and dangerous cyberattack that exploits human vulnerabilities through deceptive emails, websites, and social engineering tactics.
 
 #Learning Objectives
+
 By the end of this module, participants will be able to:
 
 Identify the characteristics of phishing emails.
